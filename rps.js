@@ -152,11 +152,11 @@ buttons.forEach(choice => choice.addEventListener('click', () => {
 
     if(num_your_score === 5)
     {
-        alert("YOU WON THIS GAME");
+        alert("YOU ARE THE VICTORIOUS ONE!WOOHOOO!");
     }
     else if(num_cpu_score === 5)
     {
-        alert("THE COMPUTER HAS WON THIS GAME");
+        alert("The COMPUTER HAS WON THIS GAME... TRY AGAIN!!!!");
     }
  
 
